@@ -1,6 +1,7 @@
 # unity-web-request-sample
 UnityWebRequestのCRUDサンプル<br>
-※実行には別途APIサーバが必要。詳しくは下記記事参照。<br>
+※入力チェック等も入れていない最小限のコードになります。<br>
+※実行には別途APIサーバが必要です。詳しくは下記記事参照。<br>
 <a href="https://elekibear.com/20211212_01">【Unity】UnityWebRequestを使ってCRUDを実装する【Ruby on Rails】</a><br>
 <br>
 [Unityバージョン]<br>
